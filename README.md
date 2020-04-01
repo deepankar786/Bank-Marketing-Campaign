@@ -1,2 +1,3 @@
 # Bank-Marketing-Campaign
-Predictive Analysis on Bank marketing campaigns of a Portugese Banking institution
+THe Project was a part of a course 'Introduction to Python' at Purdue University.
+The dataset was obtained from 'https://archive.ics.uci.edu/ml/datasets/Bank+Marketing'
